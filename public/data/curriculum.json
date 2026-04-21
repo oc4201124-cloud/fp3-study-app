@@ -1,0 +1,278 @@
+[
+  {
+    "day": 1,
+    "category": "ライフプランニング",
+    "videos": [
+      1,
+      2
+    ],
+    "theme": "FPの役割・6つの係数",
+    "description": "FP倫理・ライフプランの基本・6つの係数の考え方"
+  },
+  {
+    "day": 2,
+    "category": "ライフプランニング",
+    "videos": [
+      3
+    ],
+    "theme": "医療保険制度",
+    "description": "健康保険・後期高齢者医療・介護保険"
+  },
+  {
+    "day": 3,
+    "category": "ライフプランニング",
+    "videos": [
+      4
+    ],
+    "theme": "労災・雇用保険",
+    "description": "労災保険・雇用保険の給付内容"
+  },
+  {
+    "day": 4,
+    "category": "ライフプランニング",
+    "videos": [
+      5,
+      6
+    ],
+    "theme": "公的年金①",
+    "description": "国民年金・厚生年金の基本"
+  },
+  {
+    "day": 5,
+    "category": "ライフプランニング",
+    "videos": [
+      7,
+      8
+    ],
+    "theme": "公的年金②",
+    "description": "年金の受給額・在職老齢年金"
+  },
+  {
+    "day": 6,
+    "category": "ライフプランニング",
+    "videos": [
+      9
+    ],
+    "theme": "住宅・教育ローン",
+    "description": "住宅ローン・教育資金の計算"
+  },
+  {
+    "day": 7,
+    "category": "リスク管理",
+    "videos": [
+      10,
+      11
+    ],
+    "theme": "生命保険①",
+    "description": "生命保険の種類・定期・終身・養老保険"
+  },
+  {
+    "day": 8,
+    "category": "リスク管理",
+    "videos": [
+      12
+    ],
+    "theme": "損害保険",
+    "description": "火災保険・自動車保険・傷害保険"
+  },
+  {
+    "day": 9,
+    "category": "リスク管理",
+    "videos": [
+      13
+    ],
+    "theme": "第三分野保険",
+    "description": "医療保険・がん保険・介護保険"
+  },
+  {
+    "day": 10,
+    "category": "金融資産運用",
+    "videos": [
+      14,
+      15
+    ],
+    "theme": "金融経済の基礎",
+    "description": "金利・為替・金融政策"
+  },
+  {
+    "day": 11,
+    "category": "金融資産運用",
+    "videos": [
+      16,
+      17
+    ],
+    "theme": "株式投資",
+    "description": "株式の指標・PER・ROE・配当"
+  },
+  {
+    "day": 12,
+    "category": "金融資産運用",
+    "videos": [
+      18,
+      19
+    ],
+    "theme": "債券・投資信託",
+    "description": "債券利回り・投資信託の仕組み"
+  },
+  {
+    "day": 13,
+    "category": "金融資産運用",
+    "videos": [
+      20,
+      21
+    ],
+    "theme": "ポートフォリオ・セーフティネット",
+    "description": "分散投資・預金保険制度"
+  },
+  {
+    "day": 14,
+    "category": "タックスプランニング",
+    "videos": [
+      22,
+      23
+    ],
+    "theme": "所得税の基礎",
+    "description": "10種類の所得・非課税所得"
+  },
+  {
+    "day": 15,
+    "category": "タックスプランニング",
+    "videos": [
+      24,
+      25
+    ],
+    "theme": "各種所得の計算",
+    "description": "給与所得・事業所得・譲渡所得"
+  },
+  {
+    "day": 16,
+    "category": "タックスプランニング",
+    "videos": [
+      26,
+      27
+    ],
+    "theme": "所得控除",
+    "description": "配偶者控除・扶養控除・各種控除"
+  },
+  {
+    "day": 17,
+    "category": "タックスプランニング",
+    "videos": [
+      28
+    ],
+    "theme": "住宅ローン控除",
+    "description": "住宅借入金等特別控除の仕組み"
+  },
+  {
+    "day": 18,
+    "category": "不動産",
+    "videos": [
+      29,
+      30
+    ],
+    "theme": "不動産の基礎",
+    "description": "登記・価格（公示地価・路線価）"
+  },
+  {
+    "day": 19,
+    "category": "不動産",
+    "videos": [
+      31,
+      32
+    ],
+    "theme": "不動産取引",
+    "description": "借地借家法・都市計画法"
+  },
+  {
+    "day": 20,
+    "category": "不動産",
+    "videos": [
+      33,
+      34
+    ],
+    "theme": "建築基準法・税金",
+    "description": "建ぺい率・容積率・不動産税金"
+  },
+  {
+    "day": 21,
+    "category": "不動産",
+    "videos": [
+      35
+    ],
+    "theme": "不動産の有効活用",
+    "description": "等価交換・定期借地権"
+  },
+  {
+    "day": 22,
+    "category": "相続・事業承継",
+    "videos": [
+      36,
+      37
+    ],
+    "theme": "相続の基礎",
+    "description": "法定相続人・法定相続分・遺言"
+  },
+  {
+    "day": 23,
+    "category": "相続・事業承継",
+    "videos": [
+      38
+    ],
+    "theme": "相続税の計算",
+    "description": "相続税の計算プロセス・基礎控除"
+  },
+  {
+    "day": 24,
+    "category": "相続・事業承継",
+    "videos": [
+      39,
+      40
+    ],
+    "theme": "贈与税",
+    "description": "暦年贈与・相続時精算課税"
+  },
+  {
+    "day": 25,
+    "category": "相続・事業承継",
+    "videos": [
+      41
+    ],
+    "theme": "贈与税の特例",
+    "description": "住宅取得等資金・教育資金の非課税"
+  },
+  {
+    "day": 26,
+    "category": "総復習",
+    "videos": [],
+    "theme": "学科過去問演習①",
+    "description": "ライフプランニング・リスク管理の過去問"
+  },
+  {
+    "day": 27,
+    "category": "総復習",
+    "videos": [],
+    "theme": "学科過去問演習②",
+    "description": "金融資産運用・タックスプランニングの過去問"
+  },
+  {
+    "day": 28,
+    "category": "総復習",
+    "videos": [],
+    "theme": "学科過去問演習③",
+    "description": "不動産・相続事業承継の過去問"
+  },
+  {
+    "day": 29,
+    "category": "総復習",
+    "videos": [],
+    "theme": "実技過去問演習",
+    "description": "実技試験の過去問に集中"
+  },
+  {
+    "day": 30,
+    "category": "総復習",
+    "videos": [],
+    "theme": "最終確認・模擬試験",
+    "description": "全分野の弱点を最終確認"
+  }
+]
